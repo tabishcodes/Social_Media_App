@@ -1,0 +1,16 @@
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\bin\Debug\net8.0\Persistence.deps.json
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\bin\Debug\net8.0\Persistence.dll
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\bin\Debug\net8.0\Persistence.pdb
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\bin\Debug\net8.0\Domain.dll
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\bin\Debug\net8.0\Domain.pdb
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\Persistence.sourcelink.json
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\Persistence.csproj.CopyComplete
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\Persistence.dll
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\Persistence.pdb
+C:\Users\tabis\OneDrive\Documents\GitHub\Social_Media_App\Reactivities\Persistence\obj\Debug\net8.0\ref\Persistence.dll
