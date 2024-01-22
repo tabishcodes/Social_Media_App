@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "7y3/R0oFQxwHSKa6N2KX0ureFv459C479f6yYHlopy94T2pkLy8xhEIOcHQFAUkDrcX3S+ypaWnwS++sRK+zdg==",
+  "dgSpecHash": "UNENzFi+zGbgQ/3x4Niwaaxih69n/whDCbm3UBRR1RC28JLvnI+uMhOT8bExZF1hcAjo281io0jqN2KTjL/Trg==",
   "success": true,
   "projectFilePath": "C:\\Users\\tabis\\OneDrive\\Documents\\GitHub\\Social_Media_App\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tabis\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\tabis\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\tabis\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
     "C:\\Users\\tabis\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\tabis\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
