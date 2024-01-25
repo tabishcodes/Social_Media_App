@@ -1,6 +1,8 @@
+using System.Threading;
 using Domain;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using Persistence;
 
 namespace Application.Activities
@@ -13,7 +15,7 @@ namespace Application.Activities
         {
             private readonly DataContext _context;
 
-            public Handler(DataContext context)
+            public Handler(DataContext context, ILogger<List> logger)
             {
                 _context = context;
             }
