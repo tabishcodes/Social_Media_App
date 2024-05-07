@@ -1,4 +1,5 @@
 using Domain;
+using Microsoft.EntityFrameworkCore;
 
 namespace Persistence
 {
@@ -105,5 +106,6 @@ namespace Persistence
             await context.Activities.AddRangeAsync(activities);
             await context.SaveChangesAsync();
         }
+
     }
 }
