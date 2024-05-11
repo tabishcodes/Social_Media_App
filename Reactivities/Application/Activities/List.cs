@@ -1,4 +1,3 @@
-using System.Threading;
 using Domain;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
@@ -15,7 +14,7 @@ namespace Application.Activities
         {
             private readonly DataContext _context;
 
-            public Handler(DataContext context, ILogger<List> logger)
+            public Handler(DataContext context)
             {
                 _context = context;
             }
